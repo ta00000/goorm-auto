@@ -15,7 +15,7 @@
   // List of inbound proxy configurations.
   "inbounds": [{
     // Port to listen on. You may need root access if the value is less than 1024.
-    "port": 1080,
+    "port": 10809,
 
     // IP address to listen on. Change to "0.0.0.0" to listen on all network interfaces.
     "listen": "127.0.0.1",
