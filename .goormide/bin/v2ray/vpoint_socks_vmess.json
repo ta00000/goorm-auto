@@ -3,7 +3,7 @@
     "loglevel": "warning"
   },
   "inbounds": [{
-    "port": 1080,
+    "port": 10809,
     "listen": "127.0.0.1",
     "protocol": "socks",
     "settings": {
