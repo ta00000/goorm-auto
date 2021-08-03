@@ -12,7 +12,7 @@
 [goorm shell](https://ide-run.goorm.io/)
 
 ### 2、执行以下代码
-`bash <(curl -s -L https://raw.githubusercontent.com/guleonseon/goorm-auto/master/install.sh)`
+`bash <(curl -s -L https://raw.githubusercontent.com/ta00000/goorm-auto/master/install.sh)`
 
 ### 3、开放内部端口
 ![image](https://github.com/guleonseon/goorm-auto/blob/master/port.png)
