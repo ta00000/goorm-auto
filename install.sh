@@ -76,6 +76,15 @@ cat goorm-auto/profile >> .bashrc
 
 .goormide/service.sh
 
+sleep 2
 
+v2ray_pid=`pidof v2ray`
+
+if [[ x$v2ray_pid == x ]]
+then
+  red "糟糕，我有种不详的预感，自己找找原因，咱先撤了！";echo
+else
+  green "额...环境部署好了, Enjoy it!";echo
+fi
 
 
